@@ -1,6 +1,6 @@
 **Bird Species Observation Analysis in Forest and Grassland Ecosystem**
 
-In this project, I worked with bird observation data collected in Excel, focusing on forest and grassland areas. The main goal was to understand which bird species analysis done by the observer.
+In this project, I worked with bird observation data collected in Excel, focusing on forest and grassland areas. The main goal was to understand bird species analysis done by the observer.
 
 I started by cleaning and organizing the data to fix any mistakes or missing values. Then I did basic data analysis to explore patterns—like which species were most common, or how bird sightings changed over time or by location.
 
