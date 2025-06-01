@@ -1,4 +1,4 @@
-Tennis Sport Details
+**Tennis Sport Details**
 
 This project is built to collect and show detailed information about tennis matches and players from competitions around the world. It uses the SportRadar API to pull real-time data like player names, match results, and tournament details.
 
