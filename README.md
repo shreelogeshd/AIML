@@ -1,2 +1,1 @@
-# AIML
-AIML Projects
+Arificial Intelligence and Machine Learning Projects
