@@ -1,0 +1,7 @@
+**Tourism Experience Analytics**
+
+This project focuses on Tourism Experience Analytics using the real-world data.A stored procedure was created to combine all relevant tables into a single dataset,
+followed by data cleaning and exploratory data analysis (EDA) to handle missing values and uncover insights through visualizations.
+
+The final output is an interactive Streamlit dashboard that includes three core features: a regression model to predict visitor ratings, 
+a classification model to identify visit modes (eg., solo, family, friends), and a recommendation system that suggests tourist attractions based on user preferences.
