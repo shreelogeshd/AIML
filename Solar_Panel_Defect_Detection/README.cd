@@ -1,4 +1,4 @@
-**SolarGuard: Intelligent Defect Detection on Solar Panels using  DeepLearning**
+SolarGuard: Intelligent Defect Detection on Solar Panels using Deep Learning
 
 The SolarGuard project focuses on developing a deep learning-based system to automatically identify and classify defects in solar panels using image data. The goal is to enhance solar energy efficiency by enabling automated inspection, damage detection, and maintenance recommendations, reducing dependency on manual monitoring.
 
