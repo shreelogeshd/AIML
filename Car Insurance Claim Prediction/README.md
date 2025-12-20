@@ -6,9 +6,9 @@ I started by loading the dataset and understanding the features and the target v
 
 After gaining insights from EDA, I cleaned and prepared the data for modeling. This included handling missing values, encoding categorical variables, scaling numerical features, and splitting the dataset into training and testing sets. I used pipelines to keep the preprocessing steps structured and reusable.
 
-To make the insights more understandable and visually clear, I also created an interactive** Power BI dashboard**. The dashboard provides better data visualization by highlighting claim trends, customer behavior, and important features, making it easier for non-technical stakeholders to interpret the data and insights.
+To make the insights more understandable and visually clear, I also created an interactive **Power BI dashboard**. The dashboard provides better data visualization by highlighting claim trends, customer behavior, and important features, making it easier for non-technical stakeholders to interpret the data and insights.
 
-After that, I trained baseline models such as Logistic Regression and Decision Tree, and evaluated them using **Accuracy, Precision, Recall, and F1-score**. I then implemented advanced machine learning models like **Random Forest, XGBoost, and LightGBM **to improve the prediction performance.
+After that, I trained baseline models such as Logistic Regression and Decision Tree, and evaluated them using **Accuracy, Precision, Recall, and F1-score**. I then implemented advanced machine learning models like **Random Forest, XGBoost**, and **LightGBM** to improve the prediction performance.
 
 I further optimized the models using hyperparameter tuning techniques such as **GridSearchCV and RandomizedSearchCV**. Through feature importance analysis, I identified the key factors that strongly influence insurance claim predictions.
 
